@@ -12,7 +12,7 @@ const Navbar = () => {
             <Link href="/" passHref>
                 <Image
                     src="/logo.png"
-                    alt="YALS-ML"
+                    alt="TinyURL"
                     width={168}
                     height={45}
                     priority
