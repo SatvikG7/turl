@@ -1,4 +1,3 @@
-CreateCollection({name: 'URLS'})
 CreateIndex({
     name: "LURL_Check",
     source: Collection("URLS"),
