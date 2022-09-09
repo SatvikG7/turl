@@ -1,0 +1,15 @@
+CreateCollection({name: 'URLS'})
+CreateIndex({
+    name: "LURL_Check",
+    source: Collection("URLS"),
+    unique: false,
+    terms: [{ field: ["data", "LURL"] }],
+    values: [{ field: ["data", "TURL"] }],
+})
+CreateIndex({
+    name: "LURL_Return",
+    source: Collection("URLS"),
+    unique: false,
+    terms: [{ field: ["data", "TURL"] }],
+    values: [{ field: ["data", "LURL"] }],
+})
