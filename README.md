@@ -36,7 +36,7 @@
 
 ## About The Project
 
-![Screenshot](https://raw.githubusercontent.com/SatvikG7/turl/master/public/screenshot.jpeg)
+![Screenshot](https://raw.githubusercontent.com/SatvikG7/turl/master/public/screenshot.png)
 
 There are tons of link shorteners present on internet today, however, they do not let you create custom link or they limit them till some extent, but turl(yals) will soon let you create custom branded links for free, until my Fauna database doesn't run out of space :smile:
 
