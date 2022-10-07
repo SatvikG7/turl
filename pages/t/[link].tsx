@@ -4,7 +4,8 @@ import { useRouter } from 'next/dist/client/router';
 const Link: NextPage = () => {
     const router = useRouter();
     const domain = process.env.BASE_URL;
-    const turl = router.query.link;
+    const turlId = router.query.link;
+    const turl = domain + '/' + turlId;
 
     const copy = () => {
         if (navigator.clipboard) {
@@ -27,7 +28,7 @@ const Link: NextPage = () => {
                 <h3
                     id="tlink"
                     className="text-3xl bg-green-500 rounded-md px-2 py-1 my-3">
-                    {`${domain}/${turl}`}
+                    {`${turl}`}
                 </h3>
 
                 <button
