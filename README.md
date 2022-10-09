@@ -1,25 +1,22 @@
 <p align="center">
-  <h3 align="center">TURL</h3>
+  <img width="50%" height="50%" src="https://raw.githubusercontent.com/SatvikG7/turl/master/public/logo.png" alt="TURL"></img>
   <h5 align="center">formerly yals.ml</h5>
-
   <p align="center">
-    Tiny URL
-    <br/>
-    <br/>
+  |
     <a href="https://turl.vercel.app">Visit</a>
-    .
+    |
     <a href="https://github.com/SatvikG7/turl/issues">Report Bug</a>
-    .
+    |
     <a href="https://github.com/SatvikG7/turl/issues">Request Feature</a>
+  |
   </p>
 </p>
-
-![Downloads](https://img.shields.io/github/deployments/SatvikG7/turl/production?label=vercel&logo=vercel&logoColor=white) ![Contributors](https://img.shields.io/github/contributors/SatvikG7/turl?color=dark-green) ![Issues](https://img.shields.io/github/issues/SatvikG7/turl) ![License](https://img.shields.io/github/license/SatvikG7/turl)
 
 ## Table Of Contents
 
 -   [Table Of Contents](#table-of-contents)
--   [About The Project](#about-the-project)
+-   [Project Status](#project-status)
+-   [About](#about)
 -   [Built With](#built-with)
 -   [Getting Started](#getting-started)
     -   [Requirements](#requirements)
@@ -34,7 +31,10 @@
 -   [License](#license)
 -   [Authors](#authors)
 
-## About The Project
+## Project Status
+![Downloads](https://img.shields.io/github/deployments/SatvikG7/turl/production?label=vercel&logo=vercel&logoColor=white) ![Contributors](https://img.shields.io/github/contributors/SatvikG7/turl?color=dark-green) ![Issues](https://img.shields.io/github/issues/SatvikG7/turl) ![License](https://img.shields.io/github/license/SatvikG7/turl)
+
+## About
 
 ![Screenshot](https://raw.githubusercontent.com/SatvikG7/turl/master/public/screenshot.png)
 
